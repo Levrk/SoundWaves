@@ -3,10 +3,11 @@
 
 
 
-This project was completed in 36 hours for the Hackrithmitic 2 Hackathon sponsored by MLH
+This project was completed in 36 hours and won first place in the Hackrithmitic 2 Hackathon sponsored by MLH
 
+View the official submission at this link:
+(https://devpost.com/software/lev-roland-kalb)
 
-#
 
 ### Instructions: ##
 
@@ -14,12 +15,12 @@ This project was completed in 36 hours for the Hackrithmitic 2 Hackathon sponsor
 - run the waves.py file ("python3 waves.py" in terminal)
 - select your desired wavetype
 - select desired amplitude/frequency for your wave
-- press +/- to layer waves
+- press "+/-" to layer waves
 - choose between multiplying and adding each additional wave
-- press Visualize to see what you have made!
+- press "visualize" to see what you have made!
 
 
 created by Lev Roland-Kalb
 
-Last updated: 1/28/2023
+Last updated: 1/31/2023
 
