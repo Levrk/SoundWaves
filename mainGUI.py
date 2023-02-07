@@ -18,7 +18,7 @@ def submit():
         args += [str(operator3.get()),str(waveType4.get()), str(amplitude4.get()), str(frequency4.get())]
     if (activeWaves[3] == True):
         args += [str(operator4.get()),str(waveType5.get()), str(amplitude5.get()), str(frequency5.get())]
-    subprocess.run(["python3", "main.py"] + args)
+    subprocess.run(["python3", "Backend/main.py"] + args)
     
 
 def toggle1():
