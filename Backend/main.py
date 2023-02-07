@@ -1,7 +1,7 @@
 import sys
 import numpy as np
 from graph import graph
-from soundwave import soundwave
+from Backend.soundwave import soundwave
 from linespace import linespace
 
 
